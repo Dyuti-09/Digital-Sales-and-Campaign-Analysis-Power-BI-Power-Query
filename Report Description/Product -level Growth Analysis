@@ -1,8 +1,38 @@
-The First page:Product Level Growth Analysis
-will show us the growth metrics (Sales, orders, unit sold and customers) across all the categories. The bar chart is used to compare the sales performance in terms of unit sold , sales and customers across all the categories. 
-The line chart will give us sales performance over the period of time, for further analysis the user can use the slicers (Products, category) to understand the growth consistency for any particular product.
-I have specifically highlighted the top and bottom 1 to 5 products as per their sales , with the help of column charts to help the leader to understand which products are beneficial for business , performing well and which products needs attention.
-For deeper analysis , have added drillthrough feature to the column charts as per products that will take us the cost analysis page which will help us understand the reason behind the sales performance of products. 
-For example: The cost analysis page consists of return , which implies amount refunded to customer on returning the products, that is deduction in sales amount. That eventually draws attention in quality of such products.
+📄 Page 1: Product-Level Growth Analysis
+🎯 Executive Summary & Purpose
+The Product Level Growth Analysis page serves as the primary performance dashboard. It provides stakeholders with an overview of core growth metrics (Sales, Orders, Units Sold, and Customers) across all product categories, enabling data-driven comparisons and identifying high- or low-performing products.
 
-A matrix visual has been added with a detailed analysis of the current month, previous month , MOM% growth, Growth segment(High, Stable or Declining) and YTD as per the measures(Sales, unit sold, customers and orders) selected. Theses metrics are given for all the products for a detailed overview and compare with other products how each are performing.
+📊 Visual Breakdown & Analytical Logic
+High-Level Growth Metrics & Category Comparison (Bar Chart):
+
+Evaluates overall business health across Categories.
+
+Compares sales performance in terms of Units Sold, Revenue (Sales), and Customer Reach, helping leaders quickly identify top revenue-contributing categories.
+
+Sales Performance Over Time (Line Chart):
+
+Tracks historical sales trends to monitor revenue momentum and seasonality.
+
+Interactive slicers (Category, Product, Channel) allow users to isolate specific items and evaluate their growth consistency over time.
+
+Top 5 & Bottom 5 Product Identification (Column Charts):
+
+Highlights the Top 5 products driving business value and the Bottom 5 products requiring strategic attention or inventory adjustments.
+
+Drill-Through Capability: Users can right-click any product bar to drill directly through to the Cost Analysis page to investigate underlying profitability, cost drivers, or product quality issues (e.g., high return/refund rates impacting net revenue).
+
+Comprehensive Product Performance Matrix:
+
+Displays a granular, product-by-product breakdown comparing key time-based performance metrics:
+
+Current Month Performance
+
+Previous Month Baseline
+
+MoM % Growth
+
+Growth Segment Classification (High Growth, Fair Growth, Declining)
+
+Cumulative / YTD Totals
+
+Dynamically responds to the selected Measure Parameter (Sales, Units Sold, Customers, or Orders), giving stakeholders complete flexibility to benchmark products across different dimensions.
