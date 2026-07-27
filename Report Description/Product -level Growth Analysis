@@ -1,0 +1,8 @@
+The First page:Product Level Growth Analysis
+will show us the growth metrics (Sales, orders, unit sold and customers) across all the categories. The bar chart is used to compare the sales performance in terms of unit sold , sales and customers across all the categories. 
+The line chart will give us sales performance over the period of time, for further analysis the user can use the slicers (Products, category) to understand the growth consistency for any particular product.
+I have specifically highlighted the top and bottom 1 to 5 products as per their sales , with the help of column charts to help the leader to understand which products are beneficial for business , performing well and which products needs attention.
+For deeper analysis , have added drillthrough feature to the column charts as per products that will take us the cost analysis page which will help us understand the reason behind the sales performance of products. 
+For example: The cost analysis page consists of return , which implies amount refunded to customer on returning the products, that is deduction in sales amount. That eventually draws attention in quality of such products.
+
+A matrix visual has been added with a detailed analysis of the current month, previous month , MOM% growth, Growth segment(High, Stable or Declining) and YTD as per the measures(Sales, unit sold, customers and orders) selected. Theses metrics are given for all the products for a detailed overview and compare with other products how each are performing.
