@@ -1,0 +1,17 @@
+BASE KPIs:
+-----------
+1. Total Sales =  The product of cost per unit and number of item sold , deducting the refunded value on return of items.
+2. Unit Sold =  Number of item sold, to check the product demand.
+3. Total order =  This is the count of unique Order ID, to check the demand of the product.
+4. Total Customers = Summation of Total Unique customers, to check the brand value of the product.
+5. Cost/Unit = The average cost per product, required to check the expenditure of the company and manage cost for future transactions.
+6. Total Returns = It the summation of the Amount refunded to the customer's account on return. Use to analyse the quality of the product or customer behaviour.
+7. Total Products = To check the number of unique products bought.
+8. Campaign Budget = To understand the total amount spent on campaigns and how they contribute to the revenue.
+9. Campaing Count = Number of campaing for the products which helps us understand the amount spent on them and their usability.
+10.Total CPC =  This means Total Cost per clicks, which helps us identify the intensity of expenditure made a campaign for drawing customers. The lesser the CPC the better.
+11.Add-to-Cart % = This the number of items added to cart after clicking on the ad-campaign, shows how many people are interested to buy the product.
+12.Cart Conversion Rate % = To check how many items which were added to cart were ordered.
+13.Click-Through-% = To check how many people were interested on viewing the ad.
+14.Conversion % = To see the ratio of interested customer to the customers who bought the product , this is an important metrics to check the quality of campaign and demand of the product.
+
