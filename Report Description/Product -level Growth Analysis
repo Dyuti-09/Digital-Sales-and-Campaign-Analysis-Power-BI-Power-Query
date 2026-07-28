@@ -1,38 +1,40 @@
 📄 Page 1: Product-Level Growth Analysis
 🎯 Executive Summary & Purpose
-The Product Level Growth Analysis page serves as the primary performance dashboard. It provides stakeholders with an overview of core growth metrics (Sales, Orders, Units Sold, and Customers) across all product categories, enabling data-driven comparisons and identifying high- or low-performing products.
+The Product Level Growth Analysis page serves as the primary performance dashboard. 
+It provides stakeholders with an overview of core growth metrics (Sales, Orders, Units Sold, and Customers) across all product categories, enabling data-driven comparisons and identifying high- or low-performing products.
+
 
 📊 Visual Breakdown & Analytical Logic
 High-Level Growth Metrics & Category Comparison (Bar Chart):
+----------------------------------------------------------------
+1. Evaluates overall business health across Categories.
 
-Evaluates overall business health across Categories.
-
-Compares sales performance in terms of Units Sold, Revenue (Sales), and Customer Reach, helping leaders quickly identify top revenue-contributing categories.
+2. Compares sales performance in terms of Units Sold, Revenue (Sales), and Customer Reach, helping leaders quickly identify top revenue-contributing categories.
 
 Sales Performance Over Time (Line Chart):
-
+--------------------------------------------------
 Tracks historical sales trends to monitor revenue momentum and seasonality.
 
-Interactive slicers (Category, Product, Channel) allow users to isolate specific items and evaluate their growth consistency over time.
+1. Interactive slicers (Category, Product, Channel) allow users to isolate specific items and evaluate their growth consistency over time.
 
 Top 5 & Bottom 5 Product Identification (Column Charts):
+------------------------------------------------------------
+1. Highlights the Top 5 products driving business value and the Bottom 5 products requiring strategic attention or inventory adjustments.
 
-Highlights the Top 5 products driving business value and the Bottom 5 products requiring strategic attention or inventory adjustments.
-
-Drill-Through Capability: Users can right-click any product bar to drill directly through to the Cost Analysis page to investigate underlying profitability, cost drivers, or product quality issues (e.g., high return/refund rates impacting net revenue).
+2. Drill-Through Capability: Users can right-click any product bar to drill directly through to the Cost Analysis page to investigate underlying profitability, cost drivers, or product quality issues (e.g., high return/refund rates impacting net revenue).
 
 Comprehensive Product Performance Matrix:
+---------------------------------------------------------
+1. Displays a granular, product-by-product breakdown comparing key time-based performance metrics:
 
-Displays a granular, product-by-product breakdown comparing key time-based performance metrics:
+2. Current Month Performance
 
-Current Month Performance
+3. Previous Month Baseline
 
-Previous Month Baseline
+4. MoM % Growth
 
-MoM % Growth
+5. Growth Segment Classification (High Growth, Fair Growth, Declining)
 
-Growth Segment Classification (High Growth, Fair Growth, Declining)
+6. Cumulative / YTD Totals
 
-Cumulative / YTD Totals
-
-Dynamically responds to the selected Measure Parameter (Sales, Units Sold, Customers, or Orders), giving stakeholders complete flexibility to benchmark products across different dimensions.
+7. Dynamically responds to the selected Measure Parameter (Sales, Units Sold, Customers, or Orders), giving stakeholders complete flexibility to benchmark products across different dimensions.
