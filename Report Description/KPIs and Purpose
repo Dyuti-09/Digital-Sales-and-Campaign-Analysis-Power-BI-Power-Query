@@ -1,6 +1,6 @@
 BASE KPIs:
 -----------
-1. Total Sales =  The product of cost per unit and number of item sold , deducting the refunded value on return of items.
+1. Total Sales =  The sum of Unit Price , deducting the refunded value on return of items.
 2. Unit Sold =  Number of item sold, to check the product demand.
 3. Total order =  This is the count of unique Order ID, to check the demand of the product.
 4. Total Customers = Summation of Total Unique customers, to check the brand value of the product.
