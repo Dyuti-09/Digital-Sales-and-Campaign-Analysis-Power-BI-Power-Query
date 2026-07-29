@@ -9,9 +9,32 @@ BASE KPIs:
 7. Total Products = To check the number of unique products bought.
 8. Campaign Budget = To understand the total amount spent on campaigns and how they contribute to the revenue.
 9. Campaing Count = Number of campaing for the products which helps us understand the amount spent on them and their usability.
-10.Total CPC =  This means Total Cost per clicks, which helps us identify the intensity of expenditure made a campaign for drawing customers. The lesser the CPC the better.
-11.Add-to-Cart % = This the number of items added to cart after clicking on the ad-campaign, shows how many people are interested to buy the product.
-12.Cart Conversion Rate % = To check how many items which were added to cart were ordered.
-13.Click-Through-% = To check how many people were interested on viewing the ad.
-14.Conversion % = To see the ratio of interested customer to the customers who bought the product , this is an important metrics to check the quality of campaign and demand of the product.
+
+
+PRIOR PERIOD KPIs:
+------------------
+1. Previous Month(PM) Sales, Unit Sold, Orders,Customers, Returns.
+2. CM Vs. Monthly Sales Comparison =  CM (Current Month), this KPI is to compare the sales of the latest month with that of the previous months, to check the level of improvement business.
+3. PM Budget, CAC(Customer Aquisition Cost), PM Campaign Add-to-Cart, PM Cost/Unit, PM CPC.
+
+GROWTH & VARIANCE KPIs:
+----------------------
+1. Cumulative Amount =  Total Sales made, Orders acquired, Unit sold by the company till date. Used to imply the overall growth of business.
+2. MOM %(Month Over Month) = This is the monthly growth of sales, orders , unit sold, customers acquired , campaign budget variance to check the performance of business on a monthly basis.
+3. Growth Segments = Categorising grwoth of business as per the metrics (High growth, Fair Growth, Stable growth or Declining)
+
+ACQUIRED KPIs:
+---------------
+1. Excess Unit Sold = This is the extra amount of unit sold beyond the set threshold by the vendors.
+2. Total Volume Discount % = This is the deduction in cost paid to the vendors as per the cost/unit on the excess amount of products sold on the particular month.
+3. Cost Price = This is the total cost paid by the company on the number of products bought.
+4. Net Payable to Vendors = This the cost paid by the company after the discount for the next purchase.
+5.Total CPC =  This means Total Cost per clicks, which helps us identify the intensity of expenditure made a campaign for drawing customers. The lesser the CPC the better.
+6.Add-to-Cart % = This the number of items added to cart after clicking on the ad-campaign, shows how many people are interested to buy the product.
+7.Cart Conversion Rate % = To check how many items which were added to cart were ordered.
+8.Click-Through-% = To check how many people were interested on viewing the ad.
+9.Conversion % = To see the ratio of interested customer to the customers who bought the product , this is an important metrics to check the quality of campaign and demand of the product.
+10.Return-On-AdSepnd = This is percentage of sales made on spending on a campaign. Ideally it should always be more than 100%.
+
+
 
