@@ -1,0 +1,39 @@
+Cost Analysis Summary
+---------------------
+🎯 Executive Summary & Purpose
+-----------------------------------
+The Cost Analysis Summary report provides a granular view of the company’s internal cost structure and transactional mechanics. 
+It tracks procurement costs, vendor volume discounts, net financial obligations, and product return metrics. 
+This enables operational leaders and finance teams to audit unit economics, optimize vendor negotiations, and effectively control expenditures.
+
+📊 Visual Breakdown & Analytical Logic
+---------------------------------------
+Top-Level Cost Summary (KPI Cards):
+
+1. Displays headline macro metrics to assess financial scale and vendor liabilities at a glance:
+
+2. Cost / Unit: Tracks average product-level procurement expense.
+ 
+3. Total Returns: Monitors total monetary value refunded, serving as an indicator of product quality or fulfillment issues.
+
+4. Excess Units Sold: Quantifies sales volume exceeding baseline vendor agreement targets.
+
+5. Net Payable to Vendors: Reflects the final liability owed to suppliers after applying volume-based tiered discounts.
+
+Detailed Cost & Discount Breakdown (Matrix Visual):
+----------------------------------------------------
+1. Provides an itemized hierarchy analyzed by Product (SKU/Name), Month, and Vendor Agreement Code.
+2. Allows leaders to audit month-over-month vendor performance, verify applied discount rates, and evaluate how sales volume directly offsets procurement costs.
+
+Dynamic Threshold Slicer & Interactive Filters:
+-------------------------------------------------
+1. Threshold Parameter Slicer: Allows stakeholders to dynamically simulate and adjust vendor volume targets to analyze how changing discount thresholds impact total net margins and vendor payouts.
+
+2. Global Slicers (Channel, Sub-Channel, Start of Month): Enables focused drill-downs into specific sales channels or date ranges to evaluate segment-specific cost efficiency.
+
+💡 Key Takeaway
+By combining dynamic vendor threshold modeling with itemized procurement breakdowns, 
+this page transforms raw expense monitoring into an actionable cost-management tool—helping decision-makers protect net margins and negotiate stronger vendor terms.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
