@@ -1,15 +1,14 @@
 BASE KPIs:
 -----------
 1. Total Sales =  The sum of Unit Price , deducting the refunded value on return of items.
-2. Unit Sold =  Number of item sold, to check the product demand.
-3. Total order =  This is the count of unique Order ID, to check the demand of the product.
+2. Unit Sold =  Number of item sold, tracks volume/demand size.
+3. Total order =  This is the count of unique Order ID, tracks transaction volume/basket count.
 4. Total Customers = Summation of Total Unique customers, to check the brand value of the product.
 5. Cost/Unit = The average cost per product, required to check the expenditure of the company and manage cost for future transactions.
 6. Total Returns = It the summation of the Amount refunded to the customer's account on return. Use to analyse the quality of the product or customer behaviour.
 7. Total Products = To check the number of unique products bought.
 8. Campaign Budget = To understand the total amount spent on campaigns and how they contribute to the revenue.
 9. Campaing Count = Number of campaing for the products which helps us understand the amount spent on them and their usability.
-
 
 PRIOR PERIOD KPIs:
 ------------------
@@ -18,13 +17,13 @@ PRIOR PERIOD KPIs:
 3. PM Budget, CAC(Customer Aquisition Cost), PM Campaign Add-to-Cart, PM Cost/Unit, PM CPC.
 
 GROWTH & VARIANCE KPIs:
-----------------------
-1. Cumulative Amount =  Total Sales made, Orders acquired, Unit sold by the company till date. Used to imply the overall growth of business.
+-----------------------
+1. Running Totals / Cumulative Amount =  Total Sales made, Orders acquired, Unit sold by the company till date. Used to imply the overall growth of business.
 2. MOM %(Month Over Month) = This is the monthly growth of sales, orders , unit sold, customers acquired , campaign budget variance to check the performance of business on a monthly basis.
-3. Growth Segments = Categorising grwoth of business as per the metrics (High growth, Fair Growth, Stable growth or Declining)
+3. Growth Segments Classifier = Rule-Based Categorisation (High growth, Fair Growth, Stable growth or Declining)
 
-ACQUIRED KPIs:
----------------
+VENDOR & MARKETING KPIs:
+------------------------
 1. Excess Unit Sold = This is the extra amount of unit sold beyond the set threshold by the vendors.
 2. Total Volume Discount % = This is the deduction in cost paid to the vendors as per the cost/unit on the excess amount of products sold on the particular month.
 3. Cost Price = This is the total cost paid by the company on the number of products bought.
@@ -35,6 +34,7 @@ ACQUIRED KPIs:
 8.Click-Through-% = To check how many people were interested on viewing the ad.
 9.Conversion % = To see the ratio of interested customer to the customers who bought the product , this is an important metrics to check the quality of campaign and demand of the product.
 10.Return-On-AdSepnd = This is percentage of sales made on spending on a campaign. Ideally it should always be more than 100%.
+
 
 
 
