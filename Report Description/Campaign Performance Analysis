@@ -1,0 +1,49 @@
+📄 Page 3: Campaign Performance Analysis
+-------------------------------------------
+🎯 Executive Summary & Purpose
+
+The Campaign Performance Analysis report evaluates the effectiveness, efficiency, and overall revenue contribution of marketing initiatives across different channels. 
+While promotional campaigns are essential for driving customer acquisition and boosting product demand, tracking their financial ROI is critical. 
+This dashboard bridges marketing spend with sales outcomes—enabling business leaders to monitor customer acquisition costs, measure ad efficiency, and strategically allocate budgets toward high-performing campaigns.
+
+📊 Visual Breakdown & Interactive Features
+
+Core Campaign Metrics & MoM Benchmarks (KPI Summary Cards):
+----------------------------------------------------------------
+Displays headline efficiency and funnel metrics, each paired with its Previous Month (PM) comparison to instantly show growth trends and performance trajectory:
+
+1. Campaign Budget: Tracks total ad expenditure against prior period spend.
+
+2. Total CPC (Cost-Per-Click): Evaluates ad spend efficiency per click.
+
+3. Add-to-Cart %: Measures mid-funnel interest and purchase intent.
+
+4. Conversion %: Quantifies the percentage of ad traffic that completes a purchase.
+
+5. CAC (Customer Acquisition Cost): Tracks the average investment required to acquire a paying customer.
+
+Spend vs. Revenue Attribution (Donut Chart):
+-------------------------------------------------
+Features a Total Sales vs. Campaign Budget donut chart, giving stakeholders an immediate visual ratio of overall revenue generated compared to total ad investment.
+
+Top Performers & Reference Benchmarks (KPI Cards):
+--------------------------------------------------
+Highlights top-tier initiatives by surfacing the specific Campaign with the Highest Sales and Campaign with the Highest Customer Acquisition, complete with exact volume and revenue figures for quick baseline referencing.
+
+Platform Comparison & Performance Breakdown (Bar Chart):
+----------------------------------------------------------
+Utilizes a comparative bar chart to benchmark campaign efficiency (Budget, Conversion %, and ROAS) across different distribution platforms (e.g., Social, Search, Display) to identify high-converting channels.
+
+Granular Campaign Performance Matrix (Matrix Visual):
+---------------------------------------------------=
+Delivers a comprehensive itemized breakdown for each campaign, detailing Campaign Budget, Conversion %, ROAS %, Total Sales, and Orders Acquired. This allows team leads to evaluate individual campaign outcomes side by side.
+
+Interactive Dynamic Slicers:
+----------------------------
+1. Metric Picker / Calculation Switcher Slicer: Allows users to dynamically change measure focus across charts and visuals.
+
+2. Category & Agreement Code Slicers: Enables targeted filtering by product category or specific vendor contracts to assess campaign efficiency under different business agreements.
+
+💡 Key Takeaway:
+By pairing month-over-month performance benchmarks with platform comparisons and dynamic metric switching, 
+this report equips marketing and sales decision-makers with the insights needed to eliminate wasteful ad spend and maximize Return on Ad Spend (ROAS).
