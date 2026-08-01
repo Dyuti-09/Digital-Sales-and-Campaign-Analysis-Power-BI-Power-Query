@@ -12,4 +12,4 @@ Data Modelling:
 <img width="1004" height="522" alt="image" src="https://github.com/user-attachments/assets/4b765255-e1a3-4a10-bd98-4c63f5f4a740" />
 
 Dashboard Link:
-https://app.powerbi.com/groups/me/reports/50f40218-6e88-4d5e-96c3-deeedeb673f0/815bad4b275a0d019916?experience=power-bi
+https://app.powerbi.com/groups/me/reports/f46e4a2b-1aff-4e6f-98ee-490c4c79c99c/815bad4b275a0d019916?experience=power-bi
