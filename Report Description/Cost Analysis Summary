@@ -20,6 +20,18 @@ Top-Level Cost Summary (KPI Cards):
 
 5. Net Payable to Vendors: Reflects the final liability owed to suppliers after applying volume-based tiered discounts.
 
+Monthly Cost & Growth Metrics Analysis Dependency:
+-------------------------------------------------
+To make the drill-through experience seamless, I built a dynamic scatter plot on the Cost Analysis page. Depending on which metric the user selects on the Growth Analysis page (Sales, Unit Sold, Orders),
+this visual dynamically adapt to show how that specific metric scales against Cost Price over time.
+
+The Chart shows how the growth of cost is affecting the growth of busines in terms of sales, orders and unit sold, which can help leader to understand the factors of high and low sales and areas which needs improvements.
+
+Daily Cost Vs. Sales Ratio:
+------------------------------
+This KPI depicts the rate of company's expenditure for sales, ideally this KPI should be within within 50% of threshold which depicts a healthy growth of business.
+Value excceding 70% must be paid attention for cost improvement.
+
 Detailed Cost & Discount Breakdown (Matrix Visual):
 ----------------------------------------------------
 1. Provides an itemized hierarchy analyzed by Product (SKU/Name), Month, and Vendor Agreement Code.
