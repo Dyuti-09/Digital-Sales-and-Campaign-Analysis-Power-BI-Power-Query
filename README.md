@@ -1,6 +1,8 @@
-# Power-BI_Case-Study (Goodly)
-This project demonstrates a transformation journey of a messy and inconsistent data to a structured dashboard using Power BI to provide analytics solution. 
-The dataset is provided by Goodly's Owner Mr. Chandeep Chhabra as an assignment project which happens to be very good resource to assess our ability to deal with real-world data challenges.
+# Digital-Sales-and-Campaign-Analysis
+
+The projects demonstrates the end-to-end process of building a Power BI dashboard from scratch. This is based on Sales and Marketing domain. The main objective of this project is to organize the data into a consolidated Power BI dashboard using which business leaders can carry out real-time analysis of sales and campaign perfromance and cost management.
+
+As the data is derived from multiple sources, they appeared in semi-structured and inconsistent form, that made it difficult to find business insights on a real-time basis.
 
 Project Planning: 
 https://app.notion.com/p/Goodly-Power-BI-Case-Study-Project-37fe744e57ea80cba4bec671e7f62465
