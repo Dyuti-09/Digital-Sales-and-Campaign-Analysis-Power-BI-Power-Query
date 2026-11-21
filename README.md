@@ -4,6 +4,10 @@ The projects demonstrates the end-to-end process of building a Power BI dashboar
 
 As the data is derived from multiple sources, they appeared in semi-structured and inconsistent form, that made it difficult to find business insights on a real-time basis.
 
+Dataflow diagram:
+
+<img width="706" height="491" alt="image" src="https://github.com/user-attachments/assets/b2e046b8-748f-4a2c-ac58-81284a6565e2" />
+
 Project Planning: 
 https://app.notion.com/p/Goodly-Power-BI-Case-Study-Project-37fe744e57ea80cba4bec671e7f62465
 
